@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aiswarya</h1>
-<h3 align="center">Backend Developer | Django | REST APIs 🚀</h3>
+<h3 align="center">💻 Backend Developer | Django | REST APIs | Scalable Systems 🚀</h3>
 
 <p align="center">
   <img src="./banner.png" alt="banner" />
@@ -9,30 +9,62 @@
 
 ## 💫 About Me
 
-💻 Backend Developer with hands-on experience in building **scalable, secure, and high-performance systems**
+💻 Backend Developer with experience in building **scalable, secure, and high-performance systems**
 
-⚙️ Skilled in **Python, Django, REST APIs**, and designing robust backend architectures for real-world applications
+⚙️ Skilled in **Python, Django, REST APIs**, and backend architecture design
 
-🚀 Experienced in optimizing performance, handling **high-traffic systems**, and implementing async workflows using **Celery & RabbitMQ**
+🚀 Experienced in **async processing (Celery, RabbitMQ)** and handling high-traffic systems
 
-🗄️ Strong in **database design, migrations, and data optimization** with PostgreSQL & MongoDB
+🗄️ Strong in **PostgreSQL, MongoDB, and data migration strategies**
 
-🔐 Focused on writing **clean, maintainable code** with secure API development and system reliability
+🔐 Focused on **clean code, secure APIs, and system optimization**
 
-🤝 Collaborative team player with Agile experience, working closely with frontend, QA, and product teams
+🤝 Agile team player collaborating with frontend, QA, and product teams
 
-🌱 Continuously learning and improving to build impactful and efficient solutions
+🌱 Always learning and building impactful solutions
 
-💼 Open to **Backend / Full Stack opportunities (Junior–Mid Level | UAE)**
+💼 Open to **Backend / Full Stack opportunities (UAE)**
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,react,git,linux,mysql,sqlite,mongodb,docker,postman,html,css,js,bootstrap" />
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mongodb,react,git,linux" />
 </p>
 
 ---
 
-### 🌐 Connect with me
-- 💼 LinkedIn: "https://www.linkedin.com/in/aiswarya-v-s-31ba37371/"
+## 🚀 Featured Work
+
+- 🔹 Developed **50+ RESTful APIs** improving system performance & stability  
+- 🔹 Built **async pipelines (Celery + RabbitMQ)** for high-traffic systems  
+- 🔹 Automated **MongoDB → PostgreSQL migration** (90% manual effort reduced)  
+- 🔹 Created **dynamic quotation engine** improving delivery time by 40%  
+- 🔹 Designed **secure APIs for healthcare & tracking systems**  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Code • Build • Optimize • Repeat ✨</p>
