@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Django | REST APIs 🚀</h3>
 
 <p align="center">
-  <img src="https://your-banner-image-link" alt="banner" />
+  <img src="./banner.png" alt="banner" />
 </p>
 
 ---
