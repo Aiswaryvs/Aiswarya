@@ -29,7 +29,7 @@
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,react,git,linux,mysql,sqlite,docker,postman,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,react,git,linux,mysql,sqlite,mongodb,docker,postman,html,css,js,bootstrap" />
 </p>
 
 ---
