@@ -33,6 +33,32 @@
   <img src="https://skillicons.dev/icons?i=python,django,postgres,mongodb,react,git,linux" />
 </p>
 
+### ⚙️ Backend & Frameworks
+- 🐍 Python | Django | Django REST Framework  
+- ⚙️ Frappe Framework | ERPNext  
+- 🔗 REST API Development  
+
+### 🚀 Async & Messaging
+- ⚡ Celery  
+- 📬 RabbitMQ  
+
+### 🗄️ Databases
+- 🐘 PostgreSQL  
+- 🍃 MongoDB  
+
+### 💻 Frontend (Integration)
+- ⚛️ React  
+
+### 🛠️ Tools & DevOps
+- 🔧 Git | GitLab  
+- 🐧 Linux  
+- ⏱️ Cron Jobs & Automation  
+
+### 🔐 Other Skills
+- 🔒 Secure API Development  
+- 📊 System Design & Optimization  
+- 🔄 Data Migration & ETL  
+
 ---
 
 ## 🚀 Featured Work
@@ -42,18 +68,6 @@
 - 🔹 Automated **MongoDB → PostgreSQL migration** (90% manual effort reduced)  
 - 🔹 Created **dynamic quotation engine** improving delivery time by 40%  
 - 🔹 Designed **secure APIs for healthcare & tracking systems**  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
