@@ -7,17 +7,29 @@
 
 ---
 
-### 💻 About Me
-- 🔭 I’m currently working on **Django & Scalable Backend Systems**
-- ⚙️ Skilled in **Python, Django, REST APIs, PostgreSQL**
-- 🚀 Exploring **System Design & Async Processing (Celery, RabbitMQ)**
-- 💼 Open to **Backend / Full Stack roles**
+## 💫 About Me
+
+💻 Backend Developer with hands-on experience in building **scalable, secure, and high-performance systems**
+
+⚙️ Skilled in **Python, Django, REST APIs**, and designing robust backend architectures for real-world applications
+
+🚀 Experienced in optimizing performance, handling **high-traffic systems**, and implementing async workflows using **Celery & RabbitMQ**
+
+🗄️ Strong in **database design, migrations, and data optimization** with PostgreSQL & MongoDB
+
+🔐 Focused on writing **clean, maintainable code** with secure API development and system reliability
+
+🤝 Collaborative team player with Agile experience, working closely with frontend, QA, and product teams
+
+🌱 Continuously learning and improving to build impactful and efficient solutions
+
+💼 Open to **Backend / Full Stack opportunities (Junior–Mid Level | UAE)**
 
 ---
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,react,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,react,git,linux,mysql," />
 </p>
 
 ---
