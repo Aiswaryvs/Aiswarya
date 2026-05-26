@@ -74,7 +74,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/aiswarya-v-s-31ba37371/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
